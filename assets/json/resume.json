@@ -142,8 +142,14 @@
       "name": "Health Informatics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "AgeTech",
-        "Data Visualization"
+        "Data Visualization", "Health Communication"
+      ]
+    },
+    {
+      "name": "AgeTech",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Product Design"
       ]
     }
   ]
