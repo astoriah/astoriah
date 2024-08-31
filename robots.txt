@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://astoriah.github.io/astoriah/sitemap.xml
+Sitemap: https://astoriaho.com/sitemap.xml
